@@ -32,7 +32,8 @@ This project implements a Current Mirror Differential Amplifier using SkyWater 1
 ![Screenshot 2025-05-14 111730](https://github.com/user-attachments/assets/01daca8d-12e1-4427-9f90-148077b09498)
 
 ## Schematic Simulations
-![Screenshot 2025-05-10 211833](https://github.com/user-attachments/assets/a84bc8a2-970b-4aac-9f13-54c32b27cf5f)
+![Screenshot 2025-05-14 191056](https://github.com/user-attachments/assets/6e80a68e-a87e-4152-8e70-c1e247da16f0)
+
 ![Screenshot 2025-05-14 191907](https://github.com/user-attachments/assets/b2a88af3-63ff-4920-9983-7466b9283e5e)
 
 ## Layout
