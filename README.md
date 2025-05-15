@@ -26,16 +26,23 @@ This project implements a Current Mirror Differential Amplifier using SkyWater 1
 - **current mirror** to convert the differential current into a single-ended output.
 
 ## Schematic
+![Screenshot 2025-05-14 204153](https://github.com/user-attachments/assets/6641041d-a446-43c0-9026-738be9dbba24)
 
 ## Interdigitised and Matching Layout dependent Schematic
+![Screenshot 2025-05-14 111730](https://github.com/user-attachments/assets/01daca8d-12e1-4427-9f90-148077b09498)
 
 ## Schematic Simulations
+![Screenshot 2025-05-10 211833](https://github.com/user-attachments/assets/a84bc8a2-970b-4aac-9f13-54c32b27cf5f)
+![Screenshot 2025-05-14 191907](https://github.com/user-attachments/assets/b2a88af3-63ff-4920-9983-7466b9283e5e)
 
 ## Layout
 
-## LVS
+![Screenshot 2025-05-14 170433](https://github.com/user-attachments/assets/642c74f0-5f7c-497f-bed7-c8fe245c05cd)
 
-##Conclusion
+## LVS
+![Screenshot 2025-05-14 174845](https://github.com/user-attachments/assets/4c63aa67-3b2d-491b-85df-1e1d980bc021)
+
+## Conclusion
 In this project, we successfully designed, simulated, and verified a **PMOS Differential Amplifier with an NMOS Current Mirror Load**. This design highlights essential analog IC principles, including differential signal amplification, current steering, and active loading.
 
 By using PMOS transistors as the differential pair, the amplifier is optimized for handling **negative or low-voltage input signals**, while the NMOS current mirror acts as an active load to enhance gain and **common-mode rejection ratio (CMRR)**.
@@ -48,5 +55,10 @@ Key accomplishments include:
 - ✅ **Layout vs. Schematic (LVS) Check**: Matched using netgen
 - 📐 **Compact and symmetric layout** for performance and area efficiency
 
+
 This differential amplifier is a fundamental building block for **operational amplifiers, analog filters, and signal processing circuits**. The full flow from schematic to layout verification was completed using the **SkyWater 130nm PDK**, preparing the design for integration into a full custom analog IC.
+
+
+
+
 
